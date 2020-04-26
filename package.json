@@ -1,0 +1,16 @@
+{
+    "name": "com.cm.spawning.unity",
+    "displayName": "CM Spawning Unity",
+    "version": "0.1.0",
+    "unity": "2019.3",
+    "author": "Casper Meloen",
+    "description": "CM Spawning Unity is a Unity package for spawning objects.",
+    "dependencies": {
+        "com.cm.spawning": "https://github.com/empireboy/com.cm.spawning.git"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/empireboy/com.cm.spawning.unity.git",
+        "revision": ""
+    }
+}

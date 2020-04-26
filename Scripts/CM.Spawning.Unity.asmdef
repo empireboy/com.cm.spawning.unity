@@ -1,0 +1,15 @@
+{
+    "name": "CM.Spawning.Unity",
+    "references": [
+        "GUID:af67397c73f1ff5448e28964e8fba414"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
