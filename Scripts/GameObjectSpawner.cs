@@ -6,7 +6,7 @@ namespace CM.Spawning
 	{
 		public new Vector3 Position { get; set; }
 
-		public GameObjectSpawner(GameObject spawnableObject, Vector3 position, bool spawnOnLoad) : base(spawnableObject, new System.Numerics.Vector3(position.x, position.y, position.z), spawnOnLoad)
+		public GameObjectSpawner(GameObject spawnableObject, Vector3 position, bool spawnOnLoad = false) : base(spawnableObject, new System.Numerics.Vector3(position.x, position.y, position.z), spawnOnLoad)
 		{
 			Position = position;
 
