@@ -1,4 +1,4 @@
-# CM Spawning Unity V0.1.1
+# CM Spawning Unity v0.1.1
 
 CM Spawning Unity is a Unity package for spawning objects.
 
